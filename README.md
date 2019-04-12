@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/cetienn01/MadLib_WordGame.svg)](http://hits.dwyl.io/cetienn01/MadLib_WordGame)
+
 # MadLib_WordGame :page_with_curl::pencil2:
 <p>
 An interactive Mad Lib-style game for word-game lovers
